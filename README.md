@@ -1,7 +1,7 @@
-# DORKING PEGASUS
-
 <img width="1024" height="1024" alt="WhatsApp Image 2026-04-15 at 22 45 12" src="https://github.com/user-attachments/assets/7a0659b3-4232-4747-8410-53f081f5a9d3" />
 
+
+# DORKING PEGASUS
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/yourusername/dorking-pegasus)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/)
