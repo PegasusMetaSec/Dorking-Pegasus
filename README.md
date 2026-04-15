@@ -1,4 +1,6 @@
-# 🚀 DORKING PEGASUS
+# DORKING PEGASUS
+
+<img width="1024" height="1024" alt="WhatsApp Image 2026-04-15 at 22 45 12" src="https://github.com/user-attachments/assets/7a0659b3-4232-4747-8410-53f081f5a9d3" />
 
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/yourusername/dorking-pegasus)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -7,7 +9,7 @@
 
 > **Advanced Google Dorking Automation Tool** – Discover hidden vulnerabilities, exposed data, and misconfigurations with the power of Pegasus.
 
-![Dorking Pegasus Banner](https://via.placeholder.com/1000x200/0A0F2E/FFFFFF?text=DORKING+PEGASUS)
+<img width="1919" height="723" alt="Screenshot 2026-04-15 224851" src="https://github.com/user-attachments/assets/2e9e87bd-704b-4088-8cbe-3b1b02e0764f" />
 
 ---
 
